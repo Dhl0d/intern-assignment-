@@ -1,0 +1,2 @@
+# intern-assignment-
+trader analysis 
